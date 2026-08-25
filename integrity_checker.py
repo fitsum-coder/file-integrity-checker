@@ -27,4 +27,5 @@ except FileNotFoundError:
         file.write(file_hash)
 
     print('Baseline created.')
+#File integrity checker project
 
